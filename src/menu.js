@@ -7,11 +7,11 @@ const renderMenuPage = (() => {
   menu.innerHTML = `
   <div class="hero">
   <h1>Menu</h1>
-  <img src="./images/chef.png" alt="" width="50" height="50" />
+  <img src="./dist/images/chef.png" alt="" width="50" height="50" />
 </div>
 <div class="menu-container">
   <div class="menu-item">
-    <img src="./images/hamburger.png" alt="" />
+    <img src="./dist/images/hamburger.png" alt="" />
     <div class="item-content">
       <h4>Hamburger: <span>P 150.00</span></h4>
       <p>
@@ -21,21 +21,21 @@ const renderMenuPage = (() => {
     </div>
   </div>
   <div class="menu-item">
-    <img src="./images/cheeseburger.png" alt="" />
+    <img src="./dist/images/cheeseburger.png" alt="" />
     <div class="item-content">
       <h4>Cheeseburger: <span>P 165.00</span></h4>
       <p>Similar to our hamburger, but with cheese.</p>
     </div>
   </div>
   <div class="menu-item">
-    <img src="./images/double-cheeseburger.png" alt="" />
+    <img src="./dist/images/double-cheeseburger.png" alt="" />
     <div class="item-content">
       <h4>Double Cheeseburger: <span>P 190.00</span></h4>
       <p>Similar to our cheeseburger, but with an extra patty.</p>
     </div>
   </div>
   <div class="menu-item">
-    <img src="./images/grilled-cheese.png" alt="" />
+    <img src="./dist/images/grilled-cheese.png" alt="" />
     <div class="item-content">
       <h4>Grilled Cheese Sandwich: <span>P 110.00</span></h4>
       <p>
@@ -45,7 +45,7 @@ const renderMenuPage = (() => {
     </div>
   </div>
   <div class="menu-item">
-    <img src="./images/salad.png" alt="" />
+    <img src="./dist/images/salad.png" alt="" />
     <div class="item-content">
       <h4>Chicken Salad: <span>P 95.00</span></h4>
       <p>
@@ -55,7 +55,7 @@ const renderMenuPage = (() => {
     </div>
   </div>
   <div class="menu-item">
-    <img src="./images/french-fries.png" alt="" />
+    <img src="./dist/images/french-fries.png" alt="" />
     <div class="item-content">
       <h4>French Fries: <span>P 80.00</span></h4>
       <p>
