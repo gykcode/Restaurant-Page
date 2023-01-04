@@ -49,7 +49,7 @@ const renderMenuPage = (() => {
     <div class="item-content">
       <h4>Chicken Salad: <span>P 95.00</span></h4>
       <p>
-        Your typical caesar salad that comes with your choice of
+        Your typical chicken salad that comes with your choice of
         dressings.
       </p>
     </div>
